@@ -1,0 +1,3 @@
+[submodule "themes/all_in_one"]
+	path = themes/all_in_one
+	url = https://github.com/orianna-zzo/AllinOne.git
