@@ -27,11 +27,6 @@ pygmentsuseclasses         = true
 
 
 [menu]
-    [[menu.main]]
-        name               = "Resume"
-        weight             = -100
-        identifier         = "resume"
-        url                = "resume"
     # [[menu.main]]
     #     name                   = "Blog"
     #     weight                 = -120
@@ -44,11 +39,11 @@ pygmentsuseclasses         = true
     #     identifier             = "moment"
     #     url                    = "moment/"
 
-    # [[menu.main]]
-    #     name                   = "About"
-    #     weight                 = -100
-    #     identifier             = "about"
-    #     url                    = "about/"
+    [[menu.main]]
+        name                   = "About"
+        weight                 = -100
+        identifier             = "about"
+        url                    = "about/"
 
  
 
